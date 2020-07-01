@@ -1,0 +1,23 @@
+html{
+    background-color:red;
+}
+
+img {
+    width: 15%;
+    height: auto;
+    display: center;
+   
+    flex-wrap: wrap;
+    border: 8px solid black;
+    
+}
+
+h2 {
+    color: white;
+    
+}
+.images{
+    display: grid;
+    grid-template-rows: 25(100px);
+    grid-template-columns: 10(100px);
+}

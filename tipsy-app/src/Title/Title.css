@@ -1,0 +1,23 @@
+
+
+html { 
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+  }
+   /* body { 
+    background: url(https://res.cloudinary.com/dz449ufvx/image/upload/v1593308755/Cocktails%20Images/andrew-wong-ieXeRR0qUFA-unsplash_jrgso9.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
+h1 {
+    color: rgb(204, 5, 223);
+    font-size: 100px;
+    font-family: 'Shadows Into Light', cursive;
+
+
+}
+span {
+    color: turquoise;
+}

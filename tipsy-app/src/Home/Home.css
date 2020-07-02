@@ -10,12 +10,13 @@ html {
   }
  body { 
     /* background-image: url(https://res.cloudinary.com/dz449ufvx/image/upload/c_scale,w_623/v1593306830/Cocktails%20Images/nick-fewings-e2zmMst976M-unsplash_z3e5so.jpg); */
-    background-size: cover;
+    /* background-size: cover;
+    width: 100%; */
     width: 100%;
 } 
 h1 {
     color: rgb(228,27,2);
-    font-size: 100px;
+    font-size: 75px;
     font-family: 'Shadows Into Light', cursive;
 
 
@@ -27,8 +28,48 @@ span {
 
 li {
     text-decoration: none;
+    color: white;
+    font-size: 25px;
+    list-style-type: none;
+    justify-content: space-between;
+    
  
 }
 ul {
     list-style-type: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    width: 100%;
+    height: auto;
+}
+nav { 
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+}
+Link {
+    color: white;
+}
+
+a {
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+/* .Home {
+display: flex;
+justify-content: space-between;
+
+} */
+article{
+    background-color: white;
+    font-size: 35px;
+    color: black;
 }

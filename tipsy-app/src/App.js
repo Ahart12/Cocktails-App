@@ -5,6 +5,7 @@ import {Route, Link, Switch, } from 'react-router-dom';
 import Title from './Title/Title';
 import Disclaimer from "./Disclaimer/Disclaimer";
 import Home from "./Home/Home";
+import About from "./About/About";
 
 
 function App() {
@@ -38,6 +39,7 @@ function App() {
        <Route exact path="/" component={Title} />
        <Route exact path="/Home" component={Home}/>
        <Route exact path="/Disclaimer" component={Disclaimer}/>
+       <Route exact path="/About" component={About}/>
        <Route exact path="/Drinks" component={Drinks}/>
       </nav>
    

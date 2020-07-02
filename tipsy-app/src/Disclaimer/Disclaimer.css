@@ -1,14 +1,15 @@
 html{
-    background-color: teal;
+    
 }
 h5 {
     font-size: 35px;
-    color: white;
+    color: gold;
 }
 h6 {
     color: yellow;
 }
 p {
     color: white;
-    
+    font-size: 30px;
+
 }

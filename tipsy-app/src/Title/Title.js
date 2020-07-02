@@ -13,10 +13,11 @@ function Title() {
     
         <div className="Title">
    <h1>The <span>Tipsy</span> Turnup!</h1>
-   <ul><li><Link to="/Disclaimer">Enter</Link></li>
+   
+   <h1><Link to="/Disclaimer">Enter</Link></h1>
    
    
-   </ul>
+   
 
   
    

@@ -1,9 +1,9 @@
 html{
-    background-color:red;
+ 
 }
 
 img {
-    width: 15%;
+    width: 45%;
     height: auto;
     display: center;
    
@@ -13,11 +13,10 @@ img {
 }
 
 h2 {
-    color: white;
+    color:;
+    margin-top: 200px;
     
 }
 .images{
-    display: grid;
-    grid-template-rows: 25(100px);
-    grid-template-columns: 10(100px);
+    margin-top: 50px;
 }

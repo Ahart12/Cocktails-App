@@ -9,20 +9,7 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
-  /* body{
-      background-image: url(https://res.cloudinary.com/dz449ufvx/image/upload/v1593673835/Cocktails%20Images/ivan-rohovchenko-HXOQ5fCKYIE-unsplash_yte5s1.jpg);
-      -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  } */
-   /* body { 
-    background: url(https://res.cloudinary.com/dz449ufvx/image/upload/v1593308755/Cocktails%20Images/andrew-wong-ieXeRR0qUFA-unsplash_jrgso9.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-} */
+  
 h1 {
     color: rgb(204, 5, 223);
     font-size: 75px;
@@ -36,4 +23,7 @@ span {
 h3 {
     color: green;
     font-size: 50px;
+}
+h9{
+    text-align: center;
 }

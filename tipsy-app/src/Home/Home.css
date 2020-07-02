@@ -1,17 +1,11 @@
 
 
 html { 
-    /* background: url(https://res.cloudinary.com/dz449ufvx/image/upload/v1593308755/Cocktails%20Images/andrew-wong-ieXeRR0qUFA-unsplash_jrgso9.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; */
+    
     font-family: 'Shadows Into Light', cursive;
   }
  body { 
-    /* background-image: url(https://res.cloudinary.com/dz449ufvx/image/upload/c_scale,w_623/v1593306830/Cocktails%20Images/nick-fewings-e2zmMst976M-unsplash_z3e5so.jpg); */
-    /* background-size: cover;
-    width: 100%; */
+   
     width: 100%;
 } 
 h1 {
@@ -63,13 +57,45 @@ a {
     display: flex;
     justify-content: space-between;
 }
-/* .Home {
+ /* .Home {
 display: flex;
 justify-content: space-between;
 
 } */
 article{
-    background-color: white;
+    background-color: turquoise;
     font-size: 35px;
     color: black;
+    font-family: 'Open Sans Condensed', sans-serif; ;
 }
+
+@media only screen and (min-width: 768px) {
+    html{
+        background-image: none;
+    }
+    body {
+        background-image: none;
+      background-color: grey;
+    }
+  }
+
+  .images{
+      align-items: center;
+  }
+
+  h1{
+      color: turquoise;
+  }
+  h5{
+      color: turquoise;
+  }
+  a{
+      color: red;
+  }
+
+  span{
+      color:red;
+  }
+  button {
+      font-size: 40px;
+  }

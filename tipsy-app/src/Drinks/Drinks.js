@@ -42,21 +42,7 @@ function Drinks() {
 
   };
 
-  //   if (drink === undefined || props.myList === []) {
-  //   console.log(props.myList);
-  //    return(
-  //     <div>
-  //     {props.allDrinks.map((drink, i) => {
-  //       return (
-  //         <h2 onClick={handleClick} key={i} url={drink.url}>
-  //           {drink.name}
-  //         </h2>
-  //       );
-  //     })}
-  //   </div>
-  // );
 
-  // } else {
   if (drink === undefined) {
     return (
       <div>

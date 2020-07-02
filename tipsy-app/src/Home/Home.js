@@ -5,10 +5,14 @@ import './Home.css'
 function Home() {
     return (
         <>
+        <body>
         <style>
-      @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+           @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+     
+           @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
       </style>
-      <body>
+      
           <div className="Home">
         <nav>
           <ul>
